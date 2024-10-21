@@ -1,0 +1,27 @@
+{
+  "name": "express-static-file-server",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "static",
+    "server",
+    "typescript",
+    "nodejs",
+    "static-files",
+    "web-server"
+  ],
+  "author": "Zakaria",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
